@@ -7,7 +7,7 @@
  */
 
 import Vorpal from 'vorpal';
-import { Extensions } from 'fastpanel-core';
+import { Extensions } from '@fastpanel/core';
 
 /**
  * Class Extension

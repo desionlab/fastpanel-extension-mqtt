@@ -7,7 +7,7 @@
  * @license   MIT
  */
 Object.defineProperty(exports, "__esModule", { value: true });
-const fastpanel_core_1 = require("fastpanel-core");
+const core_1 = require("@fastpanel/core");
 /**
  * Class Extension
  *
@@ -15,7 +15,7 @@ const fastpanel_core_1 = require("fastpanel-core");
  *
  * @version 1.0.0
  */
-class Extension extends fastpanel_core_1.Extensions.ExtensionDefines {
+class Extension extends core_1.Extensions.ExtensionDefines {
     /**
      * Registers a service provider.
      */
