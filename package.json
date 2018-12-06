@@ -1,5 +1,5 @@
 {
-  "name": "fastpanel-extension-mqtt",
+  "name": "@fastpanel/mqtt",
   "version": "0.0.1",
   "description": "Extension to work with the \"MQTT\" protocol.",
   "author": "Desionlab <fenixphp@gmail.com>",
