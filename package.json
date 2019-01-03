@@ -18,19 +18,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/desionlab/fastpanel-extension-mqtt.git"
+    "url": "git+https://github.com/fastpanel/mqtt.git"
   },
   "bugs": {
-    "url": "https://github.com/desionlab/fastpanel-extension-mqtt/issues"
+    "url": "https://github.com/fastpanel/mqtt/issues"
   },
-  "homepage": "https://github.com/desionlab/fastpanel-extension-mqtt#readme",
+  "homepage": "https://github.com/fastpanel/mqtt#readme",
   "keywords": [
     "nodejs",
     "typescript"
   ],
   "dependencies": {},
   "devDependencies": {
-    "@fastpanel/core": "github:desionlab/fastpanel-core#develop",
+    "@fastpanel/core": "github:fastpanel/core#develop",
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.5",
     "@types/node": "^10.12.18",
