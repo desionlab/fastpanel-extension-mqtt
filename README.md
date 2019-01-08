@@ -3,6 +3,14 @@ Extension to work with the "MQTT" protocol.
 
 ---
 
+## Env
+
+``` dotenv
+
+```
+
+---
+
 ## License
 The MIT License (MIT)
 
