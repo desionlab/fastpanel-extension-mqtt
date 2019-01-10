@@ -5,7 +5,7 @@ Extension to work with the "MQTT" protocol.
 
 ## Env
 
-``` dotenv
+```
 
 ```
 
